@@ -1,4 +1,4 @@
-# ameilabooking-essential-shortcodes
+# ameila-essential-shortcodes
 
 This is an extension for Wordpress "Amelia Calendar" Plugin (https://wpamelia.com/) 
 The amelia hasn't any shortcodes for calendar view in front end.
