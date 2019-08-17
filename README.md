@@ -1,7 +1,7 @@
 # ameila-essential-shortcodes
 
 This is an extension for Wordpress "Amelia Calendar" Plugin (https://wpamelia.com/) 
-The amelia hasn't any shortcodes for calendar view in front end.
+The amelia doesn't have any shortcodes for calendar view in front end.
 My plugin have a couple of essential shortcodes that helps "Amelia Calendar" to show and enable Calendar,Event and Appointment in any part of the wordpress templates
 
 
